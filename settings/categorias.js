@@ -14,7 +14,8 @@ const categoriasDeJuegos = [
   "Survival Horror",
   "MMORPG",
   "Shooter (Disparos)",
-  "Battle Royale"
+  "Battle Royale",
+  "Battle Royale 2",
 ];
 
 console.log(categoriasDeJuegos);
